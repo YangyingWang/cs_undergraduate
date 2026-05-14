@@ -1,0 +1,10 @@
+int a,b,c,disc,x1,x2,p,q;
+sqrt=b*b/4*a*c  
+disc=b+b-a+c
+int 123x;
+a == b;
+x = 1.5 + y;
+result = (a + b) - (c + d)
+output = (x * y) / (z * w)
+sqrt=b*b/q*a*c
+float xx,x1x

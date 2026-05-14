@@ -1,0 +1,6 @@
+int even,n
+float kk1;
+if (n>=25)  1kk=11--;
+Then Else if (n<=15)  kk2=1++;
+Else {n<=5kk;}
+return

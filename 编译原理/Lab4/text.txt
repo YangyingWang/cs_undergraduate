@@ -1,0 +1,4 @@
+if (a>0) p=a; else p= b 
+if (a<0) p=5; else p= 20
+if (a><0) p=a; else p= b
+if (a<<0) p=a; else p= b

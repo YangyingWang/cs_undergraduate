@@ -1,0 +1,5 @@
+char c,kk;
+if (num>26) 3kk1=2;
+then (c==26) kk2=3++;
+Then {c<=kk;}
+return

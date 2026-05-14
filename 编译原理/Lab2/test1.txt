@@ -1,0 +1,5 @@
+int n,kk;
+if(num<25) 3kk1=1;
+Else (n>=25) kk2=2++;
+Then {n<=kk;}
+break
